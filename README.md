@@ -202,13 +202,3 @@ O segundo argumento pode ser substituído pelo endereço IPv4 de outro servidor 
 
 A aplicação não possui interface gráfica. Toda a interação ocorre através do terminal, e o resultado é apresentado na saída padrão.
 
----
-
-## 10. Limitações Conhecidas
-
-- A aplicação realiza apenas consultas do tipo **MX**.
-- A comunicação é realizada utilizando **UDP na porta 53**.
-- O endereço do servidor DNS deve ser informado como um endereço IPv4.
-- A aplicação realiza no máximo três tentativas de consulta, aguardando até dois segundos por resposta em cada tentativa.
-- A comunicação pode ser afetada por firewalls ou redes que bloqueiem consultas DNS externas.
-- A aplicação utiliza mensagens DNS de até 512 bytes para comunicação via UDP.
