@@ -5,7 +5,7 @@
 ### Integrantes
 
 - 
-- 
+- Daniel Ferreira Nunes - 211061565
 - Harleny Angélica Araújo de Sousa — 211061832
 - 
 
