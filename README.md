@@ -4,10 +4,9 @@
 
 ### Integrantes
 
-- 
 - Daniel Ferreira Nunes - 211061565
+- Gustavo Costa de Jesus - 211061814
 - Harleny Angélica Araújo de Sousa — 211061832
-- 
 
 ---
 
@@ -26,7 +25,7 @@ A requisição DNS é montada manualmente pela aplicação, seguindo o formato d
 O projeto foi desenvolvido e testado em:
 
 - **Sistema operacional:** Linux
-- **Distribuição:** Ubuntu
+- **Distribuição:** Ubuntu/Fedora
 - **Arquitetura:** x86_64
 
 ---
