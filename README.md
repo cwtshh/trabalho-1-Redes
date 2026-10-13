@@ -7,6 +7,7 @@
 - Daniel Ferreira Nunes - 211061565
 - Gustavo Costa de Jesus - 211061814
 - Harleny Angélica Araújo de Sousa — 211061832
+- Natália Rodrigues de Morais - 221037975
 
 ---
 
